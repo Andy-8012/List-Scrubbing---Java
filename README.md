@@ -6,7 +6,7 @@ I wanted to create a simple but realistic project to start learning how Java syt
 
 The purpose for writing this was to create a simple skeleton for list scrubbing. It can be easily modified to fit any application of remove specfic items from lists once you undersand how all the functions work.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ZAlyEl3G-WY)
 
 # Development Environment
 
